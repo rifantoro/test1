@@ -43,6 +43,6 @@ class MainActivity : AppCompatActivity() {
         })
 
         // test coding
-        // Laptop1
+        // website
     }
 }
