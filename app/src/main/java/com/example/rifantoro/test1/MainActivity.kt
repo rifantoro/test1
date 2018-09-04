@@ -17,7 +17,6 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.ArrayAdapter
 import android.widget.Toast
-import com.example.rifantoro.test1.R.id.*
 import kotlinx.android.synthetic.main.activity_main.*
 
 
@@ -44,6 +43,6 @@ class MainActivity : AppCompatActivity() {
         })
 
         // test coding
-        // test bentrok 1
+        // tarik
     }
 }
