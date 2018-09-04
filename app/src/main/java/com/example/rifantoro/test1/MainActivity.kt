@@ -43,6 +43,6 @@ class MainActivity : AppCompatActivity() {
         })
 
         // test coding
-        // local
+        // test bentrok 2
     }
 }
